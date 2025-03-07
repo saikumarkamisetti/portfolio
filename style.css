@@ -1,0 +1,123 @@
+
+#about{
+    background-color:skyblue;
+    border: 10px solid black;
+    border-radius: 25px;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    height: 500px;
+    padding: 10px;
+
+margin: 5px;}
+#about button{
+    background-color: rgb(167, 224, 110);
+    width: 100px;
+    height: 25px;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    flex-direction: row;
+}
+
+#section1{
+   border: 10px black solid;
+   border-radius: 25px;
+   background-color: darkgrey;
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    margin: 5px;rgb(124, 167, 40);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+#section3{
+    border: 10px black solid;
+    border-radius: 25px;
+    background-color: darkgrey;
+     width: 100%;
+     height: auto;
+     padding: 10px;
+     margin: 5px;rgb(124, 167, 40);
+     display: flex;
+     flex-direction: column;
+     text-align: center;
+     justify-content: center;
+     align-items: center;
+ }
+.section2{
+    border: 10px black solid;
+    border-radius: 25px;
+    background-color: darkgrey;
+     width: 100%;
+     height: auto;
+     padding: 10px;
+     margin: 5px;rgb(124, 167, 40);
+     display: flex;
+     flex-direction: column;
+     text-align: center;
+     justify-content: center;
+     align-items: center;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;   
+    
+}
+footer{
+background-color:red;
+position: fixed;
+left: 0%;
+bottom: 0%;
+width: 100%;
+text-align: center;
+
+}
+
+#k{
+    
+    color: black;
+        margin-right: 10px;
+        margin-left: 40px;
+        background-color:gray;
+             border:5px gray solid ;
+       border-radius: 100%;
+       margin-bottom: 5px;
+}
+#sai{
+    text-decoration: solid;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-right: 250px;
+
+}
+header {
+    background-color: #333;
+    color: white;
+    position:relative;
+    border: 10px black solid;
+    width: 100%;
+    height: 30px;
+    border-radius: 25px;
+    margin-left: 13px;
+    padding-top: 10px;
+        
+    
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    margin: 0 30px;
+}
+
+header a:hover {
+    text-decoration: underline;
+}
